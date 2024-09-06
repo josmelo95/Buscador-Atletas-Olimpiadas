@@ -1,5 +1,7 @@
 # Aplicação de Pesquisa de Atletas
 
+Aplicação desenvolvida segundo a Imersão Dev - Alura & Google Gemini.
+
 **Descrição:**
 
 Esta aplicação web, desenvolvida em HTML, CSS e JavaScript, permite a pesquisa de atletas brasileiros. O usuário pode digitar o nome de um atleta ou esporte no campo de pesquisa e obter resultados relevantes, como nome do atleta, descrição e link para mais informações.
