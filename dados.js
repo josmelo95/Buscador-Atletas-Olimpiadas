@@ -9,12 +9,12 @@ let dados = [
         titulo: "Rebeca Andrade",
         descricao: "Rebeca Andrade é uma ginasta brasileira que marcou história nos Jogos Olímpicos. Com sua força, agilidade e determinação, ela conquistou o coração dos brasileiros e se tornou um dos maiores nomes da ginástica mundial.",
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
-         tags: "judô judoka judo judoca"
+         tags: "ginasta ginástica ouro"
     },
     {
         titulo: "Beatriz Souza",
         descricao: "Beatriz Souza é uma judoca brasileira que se destaca pela sua técnica e determinação. Com diversas medalhas em competições nacionais e internacionais, ela é uma das maiores promessas do judô brasileiro.",
         link: "https://pt.wikipedia.org/wiki/Beatriz_Souza",
-         tags: "ginasta ginástica ouro"
+         tags: "judô judoka judo judoca"
     }
 ];
